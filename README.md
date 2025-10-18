@@ -1,3 +1,3 @@
-# Tailwind Extractor & Obfuscator
+# TailwindCSS Extractor & Obfuscator
 
-A small experimental utility that **extracts only the Tailwind classes used in an HTML snippet, generates minimal CSS for them, and then obfuscates the class names** in both the HTML and the resulting CSS.
+This tool takes an HTML snippet that uses TailwindCSS classes, extracts their corresponding styles, obfuscates the class names, and generates the final HTML and CSS with the obfuscated classes.
